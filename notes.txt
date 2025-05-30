@@ -1,0 +1,15 @@
+//how to run
+
+npx localtunnel --port 3000
+
+first redirect local request to localtunnel which will help telegram to send the req to local host
+this command will give a url 
+paste it in url of server.json
+
+
+npm start
+to run the server
+
+test in bot
+
+make sure localtunnel command is not closed in cmd/node
