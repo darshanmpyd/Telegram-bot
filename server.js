@@ -5,9 +5,9 @@
  */
 const projectId = "chatbot-project-460605";
 const locationId = "global";
-const agentId = "62fefdca-dc33-43b0-822e-5451a6264656";
+const agentId = "";
 const languageCode = "en";
-const TELEGRAM_TOKEN = "7287968961:AAHic110EQf-pmMLH_RkRnPTaaq8PfjXn3k";
+const TELEGRAM_TOKEN = "";
 const SERVER_URL = "https://lucky-parts-spend.loca.lt";
 
 const structProtoToJson =
